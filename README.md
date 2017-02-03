@@ -7,6 +7,6 @@
 # last change
 
 # markdown test
-# My linkedIn profile (LinkedIn) (https://www.linkedin.com/nhome/?trk=)
+# My linkedIn profile [LinkedIn] (https://www.linkedin.com/nhome/?trk=)
 
 # *Markdown*
